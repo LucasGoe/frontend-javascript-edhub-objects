@@ -12,6 +12,8 @@ const product = {
 
 // 1a. Log de naam van de serie in de console.
 
+    Dit is geen code maar moet t wel worden
+
 
 // 1b. Verander de kleur van het product in "Roze" en log het object in de console
 
