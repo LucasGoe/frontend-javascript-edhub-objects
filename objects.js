@@ -23,6 +23,7 @@ console.log(product.material[1]);
 // 1d. Log de afmetingen (b-h-d) in de console
 console.log(product["b-h-d"]);
 
+// lukt ie nu wel?
 
 /* Opdracht 2 */
 // Schrijf een losstaande functie die bovenstaand object verwacht. De functie gebruikt de naam van het product
