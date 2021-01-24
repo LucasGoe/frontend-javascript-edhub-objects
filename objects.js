@@ -10,15 +10,6 @@ const product = {
     "b-h-d": "17 x 24,6 x 22,3 cm",
 };
 
-const product = {
-    productName: "Smeg Waterkoker",
-    series: "Smeg jaren 50 retro lijn",
-    material: ["roestvrijstaal", "kunststof"],
-    color: "creme",
-    wireless: false,
-    "b-h-d": "17 x 24,6 x 22,3 cm",
-};
-
 // 1a. Log de naam van de serie in de console.
 console.log(product.series);
 
